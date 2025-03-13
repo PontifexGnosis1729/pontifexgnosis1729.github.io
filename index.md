@@ -2,12 +2,12 @@
 title: "Arcana Imperii"
 layout: page
 feature_text: "# The Beyond (fast zone)"
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://pbs.twimg.com/media/GfRtnudbMAAwxSI?format=jpg&name=4096x4096"
 ---
 
-*Every few years, a technology emerges that changes everything...*
+*Once every decade, a technology emerges that changes everything...*
 
-Our goal is to leverage advanced mathematics and algorithms to build applications at the forefront of modern technology. 
+Our goal is to leverage advanced mathematics and algorithms to build applications that transform dense, esoteric machine knowledge into comprehensible human understanding.
 
 ### Unveiling Infinity: AI Illuminates the Hidden and the Arcane
 
