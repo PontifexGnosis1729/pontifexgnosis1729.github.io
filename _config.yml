@@ -64,6 +64,7 @@ collections:
   posts:
     title: "Posts" # Needed for Siteleaf
     output: true
+    permalink: /:collection/:title
     feature_text: "# The Beyond (fast zone)"
     feature_image: "https://pbs.twimg.com/media/GfRtnudbMAAwxSI?format=jpg&name=4096x4096"
 
@@ -73,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "https://pbs.twimg.com/media/GfRtnudbMAAwxSI?format=jpg&name=4096x4096"
   -
     scope:
       path: ""

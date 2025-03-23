@@ -19,5 +19,3 @@ These tools are built to illuminate the obscure, to turn cryptic texts into acce
 
 ## Trial 1
 * DeepRead - a tool that extracts and quantifies the information content of a book
-
-#TODO: change icons
