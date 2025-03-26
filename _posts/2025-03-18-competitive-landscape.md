@@ -148,28 +148,17 @@ Now that we've identified the key actors, let's examine some of the system dynam
 
 5. **Talent Circulation**: Researchers and engineers move between academia, big tech, startups, and open source, creating knowledge transfer but also concentration.
 
-6. **Regulatory Feedback Loops**: Concerns about AI safety and misuse trigger regulatory responses, which then reshape investment priorities and development approaches.
-
-7. **Commoditization Pressure**: As capabilities become standardized, differentiation moves up the stack from models to applications to industry solutions.
-
-#### Competitive Dynamics and Strategic Positioning
-##### Vertical Integration vs. Specialization
-
-The AI ecosystem shows both vertical integration (especially among Big Tech) and specialization (among startups and smaller players):
-
-1. **Vertical Integration**: Big Tech companies are attempting to control multiple layers of the stack. For example, Google not only builds foundation models but also designs specialized chips (TPUs), operates cloud infrastructure, and develops AI applications[5].
-
-2. **Specialization**: Smaller players often focus on specific layers or niches where they can develop unique expertise or technology.
+6. **Commoditization Pressure**: As capabilities become standardized, differentiation moves up the stack from models to applications to industry solutions.
 
 ##### Collaboration and Competition
 
 The ecosystem features complex relationships where companies simultaneously compete and collaborate:
 
-1. **API Ecosystems**: Foundation model providers like OpenAI create APIs that enable thousands of applications, forming a collaborative ecosystem while maintaining control of the core technology[3].
+1. **API Ecosystems**: Foundation model providers like OpenAI create APIs that enable thousands of applications, forming a collaborative ecosystem while maintaining control of the core technology.
 
-2. **Open Source Collaboration**: Companies contribute to open source projects while also developing proprietary extensions or applications based on them[6].
+2. **Open Source Collaboration**: Companies contribute to open source projects while also developing proprietary extensions or applications based on them.
 
-3. **Strategic Investments**: Larger companies invest in promising startups rather than competing directly, as seen with Microsoft's investment in OpenAI[5].
+3. **Strategic Investments**: Larger companies invest in promising startups rather than competing directly, as seen with Microsoft's investment in OpenAI.
 
 ##### Economic Value Distribution
 
